@@ -1,4 +1,4 @@
-<img src="Jemimah DTK.jpg" align="right" width="150"/>
+<img src="Jmimah DTK.jpg" align="right" width="150"/>
 
 
 
