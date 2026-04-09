@@ -1,9 +1,19 @@
-![pyu](https://github.com/user-attachments/assets/3208df13-8637-4ce8-ba3e-a14eacf8af6a)
-<img src="https://dawtk2161-star.github.io/" alt="RPB Photo" align="right" width="30%"/>
+<img src="ZZW.jpg" align="right" width="150"/>
 
 
-# DawtKu
-## student
-### payapuniversity
+
+
+
+# ZueZueWai
+* International Business Management Student |Interested in Marketing & Trends
+# Education
+* Bachelor of International Business Management (In Progress), Payap University
+# Skills
+* Microsoft Office (Word, Excel, PowerPoint)
+* Basic English 
+*Thai (Basic communication skills)
+# Interests
+* Enjoy experimenting with makeup and skincare products, focusing on trends and product effectiveness
+* Interested in K-pop and global entertainment trends
 # Contact Info
 * [Web Page](https://dawtk2161-star.github.io)
