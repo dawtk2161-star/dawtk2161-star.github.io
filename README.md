@@ -1,4 +1,4 @@
-<img src="http://rbatzing.github.io/img/bob5.png" alt="" align="right" width="30%"/>
+<img src="http://rbatzing.github.io/img/.png" alt="" align="right" width="30%"/>
 
 
 # DawtKu
